@@ -32,7 +32,7 @@ const Navbar = () => {
           <FaLinkedin className="h-8 w-8 text-white hover:text-blue-500 transition sm:h-10 sm:w-10" />
         </a>
         <a
-          href="https://github.com/dishanmaduranga"
+          href="https://github.com/dishan225"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="GitHub"
@@ -40,7 +40,7 @@ const Navbar = () => {
           <FaGithub className="h-8 w-8 text-white hover:text-gray-500 transition sm:h-10 sm:w-10" />
         </a>
         <a
-          href="https://www.instagram.com/dishan_maduranga/"
+          href="https://www.instagram.com/dishan.madhuranga/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram"
@@ -48,7 +48,7 @@ const Navbar = () => {
           <FaInstagram className="h-8 w-8 text-white hover:text-pink-500 transition sm:h-10 sm:w-10" />
         </a>
         <a
-          href="https://twitter.com/dishanmaduranga"
+          href="https://twitter.com/@Dishanmadurang2"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="X (Twitter)"
@@ -56,7 +56,7 @@ const Navbar = () => {
           <FaXTwitter className="h-8 w-8 text-white hover:text-gray-500 transition sm:h-10 sm:w-10" />
         </a>
         <a
-          href="https://www.facebook.com/dishanmaduranga"
+          href="https://www.facebook.com/dishan.maduranga.79"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Facebook"
