@@ -10,17 +10,27 @@ export const ABOUT_TEXT = `I am a dedicated and versatile Software Engineer and 
 export const EXPERIENCES = [
   {
     year: "2024",
-    role: "IT Assistant",
-    company: "Nethmira Apparel",
+    role: "Intern",
+    company: "Self-Initiated Internship",
     description: `
-      - Provided technical support to staff.
-      - Managed and maintained IT infrastructure.
-      - Ensured the smooth operation of all digital systems within the company.
-      - Troubleshot hardware and software issues.
+      - Learned basic project management and software development lifecycle concepts.
+      - Developed a portfolio project showcasing web development skills.
     `,
-    technologies: ["Windows", "Networking", "Hardware", "Software Maintenance"],
+    technologies: ["HTML", "CSS", "JavaScript"],
+  },
+  {
+    year: "2023 - Present",
+    role: "Self-Initiated Internship (Online Courses)",
+    company: "Self-Learning",
+    description: `
+      - Completed online courses in cloud technologies from Google Cloud Platform, LinkedIn, and Microsoft Azure.
+      - Gained hands-on experience in cloud computing, networking, and software development.
+      - Applied acquired skills to real-world scenarios and projects.
+    `,
+    technologies: ["Google Cloud", "Microsoft Azure", "Cloud Computing", "Networking", "Software Development"],
   }
 ];
+
 
 export const PROJECTS = [
   {
