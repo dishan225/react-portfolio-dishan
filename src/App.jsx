@@ -24,6 +24,7 @@ export default function App() {
      <Experience/>
      <Project/>
      <Contact/>
+      <Footer/>
     </div>
   )
 }
