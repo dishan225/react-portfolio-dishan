@@ -39,6 +39,7 @@ export const PROJECTS = [
     description:
       "A fully functional e-commerce website built using Laravel 10,with responsive adim-panel, featuring product listing, shopping cart, user authentication, and a secure checkout process.",
     technologies: ["PHP", "Laravel", "MySQL", "Bootstrap"],
+    githubLink: "https://github.com/your-username/project-1",
   },
   {
     title: "Task Management App",
@@ -46,6 +47,8 @@ export const PROJECTS = [
     description:
       "An application for managing tasks and projects, with features such as task creation, assignment, and progress tracking.",
     technologies: ["HTML", "CSS", "Angular", "Firebase"],
+    githubLink: "https://github.com/your-username/project-1",
+    
   },
   {
     title: "Portfolio Website",
@@ -53,18 +56,22 @@ export const PROJECTS = [
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    githubLink: "https://github.com/dishan225/react-portfolio-dishan",
   },
+    
   {
     title: "Inventory Management System",
     image: project4,
     description:
       "A system designed to manage and track inventory efficiently, featuring real-time stock updates, reporting, and user management. Built with Eclipse IDE for seamless Java development and deployment.",
     technologies: ["Java", "MySQL", "Eclipse IDE", "Swing", "JDBC"],
+    githubLink: "https://github.com/dishan225/JavaInventoryApp.",
+    
 },
 ];
 
 export const CONTACT = {
-  address: "Narammala,Sri Lanka ",
+  address: "Sri Lanka ",
   phoneNo: "",
   email: "dishanmaduranga7@gmail.com",
 };
