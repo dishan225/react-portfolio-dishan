@@ -49,6 +49,17 @@ const Project = () => {
                   </span>
                 ))}
               </div>
+            {project.githubLink && (
+                <a
+                  href={project.githubLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="flex items-center space-x-2 text-purple-600 hover:text-purple-400 transition"
+                >
+                  <FaGithub className="h-5 w-5" />
+                  <span>View on GitHub</span>
+                </a>
+              )}
             </motion.div>
           </div>
         ))}
