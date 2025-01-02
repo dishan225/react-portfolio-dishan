@@ -1,5 +1,4 @@
 import React from "react";
-import { CONTACT } from "../constants";
 
 const Footer = () => {
     return (
