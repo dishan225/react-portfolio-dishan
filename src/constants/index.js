@@ -33,6 +33,24 @@ export const EXPERIENCES = [
 
 
 export const PROJECTS = [
+    {
+    title: "Portfolio Website",
+    image: project3,
+    description:
+      "A personal portfolio website showcasing projects, skills, and contact information.",
+    technologies: ["HTML", "CSS", "React", "Bootstrap"],
+    githubLink: "https://github.com/dishan225/react-portfolio-dishan",
+  },
+    
+  {
+    title: "Inventory Management System",
+    image: project4,
+    description:
+      "A system designed to manage and track inventory efficiently, featuring real-time stock updates, reporting, and user management. Built with Eclipse IDE for seamless Java development and deployment.",
+    technologies: ["Java", "MySQL", "Eclipse IDE", "Swing", "JDBC"],
+    githubLink: "https://github.com/dishan225/JavaInventoryApp.",
+    
+  },
   {
     title: "E-Commerce Website",
     image: project1,
@@ -50,24 +68,7 @@ export const PROJECTS = [
     githubLink: "https://github.com/your-username/project-1",
     
   },
-  {
-    title: "Portfolio Website",
-    image: project3,
-    description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "CSS", "React", "Bootstrap"],
-    githubLink: "https://github.com/dishan225/react-portfolio-dishan",
-  },
-    
-  {
-    title: "Inventory Management System",
-    image: project4,
-    description:
-      "A system designed to manage and track inventory efficiently, featuring real-time stock updates, reporting, and user management. Built with Eclipse IDE for seamless Java development and deployment.",
-    technologies: ["Java", "MySQL", "Eclipse IDE", "Swing", "JDBC"],
-    githubLink: "https://github.com/dishan225/JavaInventoryApp.",
-    
-},
+
 ];
 
 export const CONTACT = {
