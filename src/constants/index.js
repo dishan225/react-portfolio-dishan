@@ -59,7 +59,7 @@ export const PROJECTS = [
     description:
       "A news application built with Kotlin, Firebase, and News API, allowing users to browse the latest news from multiple sources with categorized filtering, real-time updates, and a modern UI.",
     technologies: ["Kotlin", "Firebase", "News API", "Jetpack Compose"],
-    githubLink: "https://github.com/dishan225/news-app-kotlin",
+    githubLink: "https://github.com/dishan225/NewsApplication",
   },
   {
     title: "E-Commerce Website",
