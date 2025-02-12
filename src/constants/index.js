@@ -2,6 +2,8 @@ import project1 from "../assets/projects/project-1.png";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/picture-3.png";
 import project4 from "../assets/projects/picture-4.png";
+import project4 from "../assets/projects/news.jpeg";
+
 
 export const HERO_CONTENT = `I am an Aspiring Software Engineer and Self-Taught Developer with a passion for creating impactful software solutions. With hands-on experience gained through personal projects and online courses, I have developed strong skills in front-end and back-end development. I am constantly learning and improving my expertise to stay on top of the latest technologies. My goal is to contribute to innovative projects that solve real-world problems and deliver exceptional user experiences.`;
 
