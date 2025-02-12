@@ -52,6 +52,14 @@ export const PROJECTS = [
     
   },
   {
+    title: "News App",
+    image: news, // Replace with the correct image
+    description:
+      "A news application built with Kotlin, Firebase, and News API, allowing users to browse the latest news from multiple sources with categorized filtering, real-time updates, and a modern UI.",
+    technologies: ["Kotlin", "Firebase", "News API", "Jetpack Compose"],
+    githubLink: "https://github.com/dishan225/news-app-kotlin",
+  },
+  {
     title: "E-Commerce Website",
     image: project1,
     description:
