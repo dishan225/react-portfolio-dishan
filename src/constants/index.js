@@ -11,16 +11,6 @@ export const ABOUT_TEXT = `As an Aspiring Software Engineer and Self-Taught Deve
 
 export const EXPERIENCES = [
   {
-    year: "2024",
-    role: "Intern",
-    company: "Self-Initiated Internship",
-    description: `
-      - Learned basic project management and software development lifecycle concepts.
-      - Developed a portfolio project showcasing web development skills.
-    `,
-    technologies: ["HTML", "CSS", "JavaScript"],
-  },
-  {
     year: "2023 - Present",
     role: "Self-Initiated Internship (Online Courses)",
     company: "Self-Learning",
@@ -28,6 +18,7 @@ export const EXPERIENCES = [
       - Completed online courses in cloud technologies from Google Cloud Platform, LinkedIn, and Microsoft Azure.
       - Gained hands-on experience in cloud computing, networking, and software development.
       - Applied acquired skills to real-world scenarios and projects.
+      - Developed a portfolio project showcasing web development skills.
     `,
     technologies: ["Google Cloud", "Microsoft Azure", "Cloud Computing", "Networking", "Software Development"],
   }
